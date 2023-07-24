@@ -1,0 +1,16 @@
+name: My-repo
+id: ari:cloud:compass:d7192f2f-11f8-4c7c-950c-af5ad04b12f8:component/79fc4a02-929a-43e6-93f5-3d4d9d54e942/e6a9ee8c-a853-4e0a-b51f-6f70c5d0ec30
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Germ-Org/My-repo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
