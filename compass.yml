@@ -8,7 +8,7 @@ fields:
   tier: 4
 links: []
 relationships: {}
-labels: null
+labels: [foo:bar, stufff]
 customFields: null
 
 # Learn more about formatting compass.yml:
