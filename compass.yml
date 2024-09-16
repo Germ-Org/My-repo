@@ -1,2 +1,13 @@
-compass.yml
-compass
+name: sdsdsdasd
+id: 'ari:cloud:compass:d7192f2f-11f8-4c7c-950c-af5ad04b12f8:component/79fc4a02-929a-43e6-93f5-3d4d9d54e942/f0b2f359-b255-4411-9b1d-fd7679b6574a'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links: []
+relationships: {}
+labels:
+  - synced-with-jsm
+customFields: null
